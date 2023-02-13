@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Establecemos la versión de xml que usaremos y su código de caracteres-->
+<!--Enlazamos el documento xml al documento de estilizado xsl-->
+<?xml-stylesheet type="text/xsl" href="Activitat3.xsl"?>
+
+<!--Creamos un root llamado catalogo y le asignamos 10 hijos llamados cd con 6 subhijos o elementos característicos-->
+<catalogo>
+    <cd>
+        <titulo>Empire Burlesque</titulo>
+        <artista>Bob Dylan</artista>
+        <pais>USA</pais>
+        <companyia>Columbia</companyia>
+        <precio>10.90</precio>
+        <anyo>1985</anyo>
+    </cd>
+    <cd>
+        <titulo>Soulsville</titulo>
+        <artista>Jorn Hoel</artista>
+        <pais>Norway</pais>
+        <companyia>WEA</companyia>
+        <precio>7.90</precio>
+        <anyo>1996</anyo>
+    </cd>
+    <cd>
+        <titulo>Still got the blues</titulo>
+        <artista>Gary Moore</artista>
+        <pais>UK</pais>
+        <companyia>Virgin records</companyia>
+        <precio>10.20</precio>
+        <anyo>1990</anyo>
+    </cd>
+    <cd>
+        <titulo>One night only</titulo>
+        <artista>Bee Gees</artista>
+        <pais>UK</pais>
+        <companyia>Polydor</companyia>
+        <precio>10.90</precio>
+        <anyo>1991</anyo>
+    </cd>
+    <cd>
+        <titulo>Romanza</titulo>
+        <artista>Andrea Bocelli</artista>
+        <pais>Italia</pais>
+        <companyia>Polydor</companyia>
+        <precio>10.80</precio>
+        <anyo>1996</anyo>
+    </cd>
+    <cd>
+        <titulo>When a man loves a woman</titulo>
+        <artista>Percy Sledge</artista>
+        <pais>USA</pais>
+        <companyia>Atlantic</companyia>
+        <precio>8.70</precio>
+        <anyo>1987</anyo>
+    </cd>
+    <cd>
+        <titulo>Black angel</titulo>
+        <artista>Savage Rose</artista>
+        <pais>Dinamarca</pais>
+        <companyia>Mega</companyia>
+        <precio>10.90</precio>
+        <anyo>1995</anyo>
+    </cd>
+    <cd>
+        <titulo>1999 Grammy Nominees</titulo>
+        <artista>Many artists</artista>
+        <pais>USA</pais>
+        <companyia>Grammy</companyia>
+        <precio>10.20</precio>
+        <anyo>1999</anyo>
+    </cd>
+    <cd>
+        <titulo>Red</titulo>
+        <artista>The Communards</artista>
+        <pais>UK</pais>
+        <companyia>London</companyia>
+        <precio>10.1</precio>
+        <anyo>1987</anyo>
+    </cd>
+    <cd>
+        <titulo>Unchain my heart</titulo>
+        <artista>Joe Cocker</artista>
+        <pais>USA</pais>
+        <companyia>EMI</companyia>
+        <precio>8.20</precio>
+        <anyo>1987</anyo>
+    </cd>
+</catalogo>

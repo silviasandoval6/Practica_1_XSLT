@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Establecemos la versión de xml que usaremos y su código de caracteres-->
+<!--Enlazamos el documento xml al documento de estilizado xsl-->
+<?xml-stylesheet type="text/xsl" href="Activitat2.xsl"?>
+
+<!--Creamos un root llamado catalogo y le asignamos 4 hijos llamados cd con dos subhijos o elementos característicos que seran el título y el artista-->
+<catalogo>
+    <cd>
+        <titulo>Empire Burlesque</titulo>
+        <artista>Bob Dylan</artista>
+    </cd>
+    <cd>
+        <titulo>Seize the day</titulo>
+        <artista>Avenged Sevenfold</artista>
+    </cd>
+    <cd>
+        <titulo>Dust in the wind</titulo>
+        <artista>Kansas</artista>
+    </cd>
+    <cd>
+        <titulo>Crazy</titulo>
+        <artista>Bob Dylan</artista>
+    </cd>
+</catalogo>

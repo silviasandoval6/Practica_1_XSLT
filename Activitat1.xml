@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Establecemos la versión de xml que usaremos y su código de caracteres-->
+<!--Enlazamos el documento xml al documento de estilizado xsl-->
+<?xml-stylesheet type="text/xsl" href="Activitat1.xsl"?>
+
+<!--Colocamos un root llamado title con un child llamado text donde preparamos el mensaje a mostrar-->
+<title>
+  <text>Hello world</text>
+</title>
